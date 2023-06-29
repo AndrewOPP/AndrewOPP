@@ -30,5 +30,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 
-<a href="https://instagram.com/adityavs_"><img src="https://www.instagram.com/sacredbleed/?hl=ru"/></a>
+<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
