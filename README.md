@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm currently studying as a FullStack developer at the GoIT company.\
+🎓 &nbsp;I'm currently studying as a FullStack developer at the GoIT company.
 ✉️ &nbsp;You can shoot me an email at a.vyblov2003@gmail.com! I'll try to respond as soon as I can.\
 
 
@@ -30,5 +30,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@sacredbleed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
