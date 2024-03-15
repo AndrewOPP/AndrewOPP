@@ -2,7 +2,6 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm currently studying as a FullStack developer at the GoIT company. <br>
 ✉️ &nbsp;You can shoot me an email at a.vyblov2003@gmail.com! I'll try to respond as soon as I can.
 
 
