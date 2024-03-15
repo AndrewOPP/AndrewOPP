@@ -4,8 +4,8 @@ I'm Andrew Vyblov a Software Engineer with 1.5 years of experience. Experienced 
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Maksym_Rudnyi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-vyblov-frontdev/)
-[![Mail Badge](https://img.shields.io/badge/-@Maksym_Rudnyi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/sacredbleed/) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-vyblov-frontdev/)
+[![Mail Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/sacredbleed/) 
 
 
 #### Top Technologies
