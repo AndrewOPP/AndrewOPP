@@ -1,49 +1,32 @@
-<!-- ## 👋 &nbsp;Hey there! I'm Andrew-->
+### Hi, I'm Andrew 👋
 
-### 👨🏻‍💻 &nbsp;About Me
+I'm Andrew Vyblov a Software Engineer with 1.5 years of experience. Experienced both in Front-end and Back-end technologies. I spend most of my time coding outstanding projects.
 
-✉️ &nbsp;You can shoot me an email at a.vyblov2003@gmail.com! I'll try to respond as soon as I can.
+:mailbox: Reach me out!
 
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-### 🛠 &nbsp;Tech Stack
-
-<img align="left" alt="HTML5" width="35px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img align="left" alt="HTML5" width="35px"
-src="https://user-images.githubusercontent.com/106702583/179249004-83788238-3e0e-42fc-b48d-d94316bb66d4.svg">
-<img align="left" alt="TS" width="35px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-<img align="left" alt="RESCT" width="35px background="black"
-src="https://w7.pngwing.com/pngs/413/852/png-transparent-redux-react-logo-javascript-dq-purple-violet-text-thumbnail.png">
-<img align="left" alt="RESCT" width="35px"
-src="https://user-images.githubusercontent.com/106702583/179249856-0896cff4-133d-4136-951d-e67160a578a2.svg">
-<img align="left" alt="RESCT" width="35px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-<img align="left" alt="RESCT" width="35px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img align="left" alt="RESCT" width="35px"
-src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
-<img align="left" alt="RESCT" width="35px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-<img align="left" alt="RESCT" width="35px"
-src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4">
-<img align="left" alt="RESCT" width="35px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+[![Linkedin Badge](https://img.shields.io/badge/-Maksym_Rudnyi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-vyblov-frontdev/)
+[![Mail Badge](https://img.shields.io/badge/-@Maksym_Rudnyi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/sacredbleed/) 
 
 
-### ⚙️ &nbsp;GitHub Analytics
+#### Top Technologies
 
-<p align="center">
-<a href="https://github.com/AndrewOPP">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AndrewOPP&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AndrewOPP&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
-### 🤝🏻 &nbsp;Connect with Me
+### Tutorials
 
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][graphqllist]
 
-<a href="https://instagram.com/sacredbleed"><img src="https://img.shields.io/badge/-@sacredbleed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<br/>
 
+### Bizness
+- :email: a.vyblov2003@gmail.com
+<br/>
+
+### My stats ⭐
+
+<div align="center">
+<img alt="Andrew's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AndrewOPP&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewOPP&layout=compact&&langs_count=8"/>
+</div>
