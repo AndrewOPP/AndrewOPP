@@ -1,6 +1,6 @@
 ### Hi, I'm Andrew 👋
 
-I'm Andrew Vyblov a Software Engineer with 1.5 years of experience. Experienced both in Front-end and Back-end technologies. I spend most of my time coding outstanding projects.
+I'm Andrew Vyblov a Software Engineer with 2 years of experience. Experienced both in Front-end and Back-end technologies. I spend most of my time coding outstanding projects.
 
 :mailbox: Reach me out!
 
