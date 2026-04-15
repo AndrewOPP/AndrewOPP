@@ -1,26 +1,74 @@
-### Hi, I'm Andrew 👋
+<div align="center">
+  
+  # Hi, I'm Andrew Vyblov! 👋
+  ### Full-Stack & AI Integration Engineer | Building modern apps and intelligent agents
 
-I'm Andrew Vyblov a Software Engineer with 2 years of experience. Experienced both in Front-end and Back-end technologies. I spend most of my time coding outstanding projects.
+  <p align="center">
+    <a href="https://www.linkedin.com/in/andrew-vyblov-frontdev/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:a.vyblov2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://www.instagram.com/sacredbleed/"><img src="https://img.shields.io/badge/Instagram-e84393?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  </p>
+</div>
 
-:mailbox: Reach me out!
+---
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-vyblov-frontdev/)
-[![Mail Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/sacredbleed/) 
+## 👨‍💻 About Me
 
+I am a driven and results-oriented Software Engineer with **3 years** of programming background and **1.5 years** of solid commercial experience. Beyond traditional web development, I am an **expert in AI integration**. I specialize in developing custom AI agents, designing complex reasoning protocols, and seamlessly embedding LLMs into existing infrastructures to achieve strategic business goals.
 
-#### Top Technologies
+I don't just write code; I design scalable architectures. Whether it's optimizing complex UI components, setting up enterprise monorepos, or automating business workflows with artificial intelligence, I build solutions that bring real value to the product.
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+* 🧠 **AI Solutions:** Expert in creating autonomous AI agents and integrating LLMs to solve complex enterprise tasks and boost business efficiency.
+* 💡 **Full-Stack:** Creating high-performance applications, robust database design, and writing clean, maintainable code.
+* ⚙️ **Architecture:** Confident in microservices, complex state management, and monorepo architectures (Monorepo/Turbo).
 
-<br/>
+---
 
-### Business
-- :email: a.vyblov2003@gmail.com
-<br/>
+## 🛠️ Tech Stack
 
-### My stats ⭐
+### AI & Integration
+<p>
+  <img src="https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/LLM_Integration-4B32C3?style=for-the-badge&logo=google-gemini&logoColor=white" alt="LLM Integration" />
+  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
+</p>
+
+### Architecture & Tools
+<p>
+  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" alt="Turborepo" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-<img alt="Andrew's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AndrewOPP&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewOPP&layout=compact&&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AndrewOPP&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=007ACC" alt="Andrew's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewOPP&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF" alt="Top langs" width="48%" />
+</div>
+
+---
+<div align="center">
+  <i>Ready for new challenges and exciting projects. Open to new opportunities! 🚀</i>
 </div>
