@@ -13,11 +13,9 @@
 
 ---
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1eum8xDeZMMe0-CLwvJQnYrMZBsKIR5W0/view?usp=drive_link" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/View%20My%20CV-007ACC?style=for-the-badge&logo=readme&logoColor=white" />
-  </a>
-</p>
+<a href="https://drive.google.com/file/d/1eum8xDeZMMe0-CLwvJQnYrMZBsKIR5W0/view?usp=drive_link" style="text-decoration: none;">
+  📄 <b>View My CV</b>
+</a>
 
 ## 👨‍💻 About Me
 
