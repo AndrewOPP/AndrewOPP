@@ -13,13 +13,13 @@
 
 ---
 
-## 👨‍💻 About Me
-<div>
-  📄 <a href="https://drive.google.com/file/d/1eum8xDeZMMe0-CLwvJQnYrMZBsKIR5W0/view?usp=drive_link">
-  <b>View My CV</b>
-</a>
-</div>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1eum8xDeZMMe0-CLwvJQnYrMZBsKIR5W0/view?usp=drive_link" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/View%20My%20CV-007ACC?style=for-the-badge&logo=readme&logoColor=white" />
+  </a>
+</p>
 
+## 👨‍💻 About Me
 
 I am a driven and results-oriented Software Engineer with **3 years** of programming background and **1.5 years** of solid commercial experience. Beyond traditional web development, I am an **expert in AI integration**. I specialize in developing custom AI agents, designing complex reasoning protocols, and seamlessly embedding LLMs into existing infrastructures to achieve strategic business goals.
 
