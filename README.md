@@ -15,6 +15,10 @@
 
 ## 👨‍💻 About Me
 
+<a href="https://drive.google.com/file/d/1eum8xDeZMMe0-CLwvJQnYrMZBsKIR5W0/view?usp=drive_link">
+  📄 <b>View My CV</b>
+</a>
+
 I am a driven and results-oriented Software Engineer with **3 years** of programming background and **1.5 years** of solid commercial experience. Beyond traditional web development, I am an **expert in AI integration**. I specialize in developing custom AI agents, designing complex reasoning protocols, and seamlessly embedding LLMs into existing infrastructures to achieve strategic business goals.
 
 I don't just write code; I design scalable architectures. Whether it's optimizing complex UI components, setting up enterprise monorepos, or automating business workflows with artificial intelligence, I build solutions that bring real value to the product.
